@@ -1,6 +1,6 @@
 # DorkURL
 
-DorkURL is a simple tool that uses the **DuckDuckGo** search engine to find website links based on a custom **Dork** query. It allows the user to specify a country code or choose one randomly to target specific domains (e.g., `.il`, `.sa`). The tool is designed for penetration testers, security researchers, and those looking to gather targeted links for security analysis.
+DorkURL is a simple tool that uses the **DuckDuckGo** search engine to find website links based on a custom **Dork** query. It allows the user to specify a country code or choose one randomly to target specific domains (e.g., `.il`, `.sa` , OR ?). The tool is designed for penetration testers, security researchers, and those looking to gather targeted links for security analysis. 
 
 ## Features
 - Search using custom **Dork** queries.
